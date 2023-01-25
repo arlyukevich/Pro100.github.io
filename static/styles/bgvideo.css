@@ -1,0 +1,78 @@
+.bgvideo {
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.bgvideo video {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.effect {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.165);
+}
+
+.video-text {
+    color: rgb(255, 255, 255);
+    z-index: 2;
+}
+.PhotoSab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.For {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+.Stal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+.Hor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.Det {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+.Met {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.wit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}

@@ -1,0 +1,17 @@
+footer {
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    margin:0 auto;
+    text-align: center;
+    padding-top: 1px;
+}
+footer a {
+    color:rgb(0, 0, 0);
+    font-size: 35px;
+    margin-left: 20px;
+
+}
+footer nav a:hover {
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
